@@ -1,0 +1,2 @@
+# Applype
+Translation disappears.
